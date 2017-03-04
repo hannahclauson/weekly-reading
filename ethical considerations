@@ -3,10 +3,33 @@
 ref https://www.wired.com/2017/02/mail-order-std-tests-make-sharing-results-easy-sending-snap
 
 companies:
-- asdf
--
--
+- https://www.mylabbox.com/#
+- https://www.gettested.com/
+- http://www.mymately.com/index.php
 
 business model:
-- The tests range in price depending on which service you choose, but you’ll have to pay out of pocket for all of them. The upside: Insurance companies don’t have to know the frequency or results of your tests (neither do and mom and dad, if you’re a 25-year-old on your parents’ plan). The downside is it can get expensive. MyLAB Box kits range from $79 for a single test to $399 for a 10-panel screen. GetTested offers just one, eight-test kit for $199 that covers the most commonly contracted STDs, including HIV and syphilis. When Mately formally launches next year, geared toward the LGBTQ crowd, they’ll offer a subscription model: a $70 joining fee followed by a $30 membership to test for HIV monthly, with add-ons for other test
-s.
+- The tests range in price  
+- pay out of pocket for all of them
+- upside / aka - Insurance companies don’t have to know the frequency or results of your tests (neither do and mom and dad, if you’re a 25-year-old on your parents’ plan)
+- MyLAB Box kits range from $79 for a single test to $399 for a 10-panel screen
+- GetTested offers just one, eight-test kit for $199 that covers the most commonly contracted STDs, including HIV and syphilis. 
+- Mately formally launches next year, geared toward the LGBTQ crowd, they’ll offer a subscription model: a $70 joining fee followed by a $30 membership to test for HIV monthly, with add-ons for other test
+
+- The technology behind these tests isn’t new. What these companies are selling is the convenience and privacy of home
+- Mately plans to go one step further, giving you a badge for your dating profile to prove you’ve been tested. 
+- mately: Once you connect with someone you can share those results privately via a Snapchat-esque encrypted URL.
+
+front-end (marketed goal)
+- he end goal is noble: empowering people to own their sexual health and act responsibly. But these companies didn’t just pop up because of an altruistic desire to eradicate STDs. 
+
+back-end (driver / rationale)
+- D2C LAB TESTS - They exist because of a regulatory ruling that lessened federal oversight on at-home tests for consumers.
+- On page five, footnote four, the agency stated that it would not be exercising enforcement discretion for direct-to-consumer tests, whether or not they met the definition of a lab-developed test
+
+lack of regulation concerns:
+- That lack of regulation means you should probably be skeptical of these companies’ services. 
+- Even if all the individual tests they offer have been approved by the FDA, only two tests—both for HIV—have been approved for home collection.1 
+-Without direct oversight and with little transparency into the manufacturers and labs each company works with, there’s room for error.
+Labs can mix up samples and botch tests.
+
+fda ref: https://www.fda.gov/downloads/medicaldevices/deviceregulationandguidance/guidancedocuments/ucm416685.pdf
